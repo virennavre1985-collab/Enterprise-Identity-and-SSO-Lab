@@ -106,7 +106,6 @@ images/
 screenshots/
 
 scripts/
-## Skills Demonstrated
 
 ## Skills Demonstrated
 
